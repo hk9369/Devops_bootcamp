@@ -6,4 +6,6 @@ root
 useradd
 userdel
 usermod
-
+groupadd
+groupdel
+groupmod
