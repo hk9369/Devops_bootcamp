@@ -2,4 +2,8 @@ mkdir
 touch 
 cd 
 ls 
+root
+useradd
+userdel
+usermod
 
